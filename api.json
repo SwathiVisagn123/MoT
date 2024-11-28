@@ -14,7 +14,7 @@
     "version": "v1"
   },
   "paths": {
-    "/api/Book": {
+    "/api/Books": {
       "get": {
         "tags": ["Book"],
         "responses": {
